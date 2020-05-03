@@ -1,3 +1,3 @@
 import React from "react"
 
-export default () => <div>Vectis!</div>
+export default () => <div>!!Vectis!!</div>
